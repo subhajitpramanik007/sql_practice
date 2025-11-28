@@ -6,21 +6,21 @@ Below are **80 SQL challenge questions** designed for practicing all major SQL c
 
 # 🟢 Beginner Level (1–20)
 
-- [ ] 1. Select all users from the `users` table.
-- [ ] 2. Show all product names and prices.
-- [ ] 3. List all categories.
-- [ ] 4. Retrieve the first 5 products.
-- [ ] 5. Get all users from the USA.
-- [ ] 6. Show all products priced above 100.
-- [ ] 7. Count how many users exist.
-- [ ] 8. Count how many products cost less than 50.
-- [ ] 9. Get the total number of categories.
-- [ ] 10. Show all products ordered by price (descending).
-- [ ] 11. Find users whose name starts with "A".
-- [ ] 12. Select product names containing the word "Phone".
-- [ ] 13. Show all orders with status = 'delivered'.
-- [ ] 14. Retrieve all payments made using 'card'.
-- [ ] 15. List all reviews with a rating of 5.
+- [x] 1. Select all users from the `users` table.
+- [x] 2. Show all product names and prices.
+- [x] 3. List all categories.
+- [x] 4. Retrieve the first 5 products.
+- [x] 5. Get all users from the USA.
+- [x] 6. Show all products priced above 100.
+- [x] 7. Count how many users exist.
+- [x] 8. Count how many products cost less than 50.
+- [x] 9. Get the total number of categories.
+- [x] 10. Show all products ordered by price (descending).
+- [x] 11. Find users whose name starts with "A".
+- [x] 12. Select product names containing the word "Phone".
+- [x] 13. Show all orders with status = 'delivered'.
+- [x] 14. Retrieve all payments made using 'card'.
+- [x] 15. List all reviews with a rating of 5.
 - [ ] 16. Show unique countries from the `users` table.
 - [ ] 17. Count how many reviews each rating (1–5) has.
 - [ ] 18. Display all products where stock > 20.
