@@ -1,0 +1,16 @@
+{
+  "name": "sql_practice",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "query": "sqlite3 data.db < ",
+    "query:ecom": "sh -c 'sqlite3 -table data.db < ./e-commerce/challenges/$F.sql'"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
