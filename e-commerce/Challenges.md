@@ -21,21 +21,21 @@ Below are **80 SQL challenge questions** designed for practicing all major SQL c
 - [x] 13. Show all orders with status = 'delivered'.
 - [x] 14. Retrieve all payments made using 'card'.
 - [x] 15. List all reviews with a rating of 5.
-- [ ] 16. Show unique countries from the `users` table.
-- [ ] 17. Count how many reviews each rating (1–5) has.
-- [ ] 18. Display all products where stock > 20.
-- [ ] 19. List users created after a specific date.
-- [ ] 20. Select all orders made in November 2024.
+- [x] 16. Show unique countries from the `users` table.
+- [x] 17. Count how many reviews each rating (1–5) has.
+- [x] 18. Display all products where stock > 20.
+- [x] 19. List users created after a specific date.
+- [x] 20. Select all orders made in November 2024.
 
 ---
 
 # 🟡 Intermediate Level (21–50)
 
-- [ ] 21. Join users and orders to show each user's orders.
-- [ ] 22. Show each order with its total number of items.
-- [ ] 23. Display each product with its category names.
-- [ ] 24. List all orders with the total purchase amount (sum of order_items).
-- [ ] 25. Show products that belong to more than one category.
+- [x] 21. Join users and orders to show each user's orders.
+- [x] 22. Show each order with its total number of items.
+- [x] 23. Display each product with its category names.
+- [x] 24. List all orders with the total purchase amount (sum of order_items).
+- [x] 25. Show products that belong to more than one category.
 - [ ] 26. Find users who have never placed an order.
 - [ ] 27. Find orders that have no payment record.
 - [ ] 28. Show the average order amount per user.
